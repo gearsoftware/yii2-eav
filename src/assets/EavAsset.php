@@ -15,7 +15,7 @@ use yii\web\AssetBundle;
 
 class EavAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/eav/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-eav/src/assets/source';
     public $css = [
         'css/eav.css',
     ];
